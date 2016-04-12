@@ -1,0 +1,26 @@
+Iteration     : 1
+Label         : i
+Average Val   : -0.00658
+RMS Val       : 0.02533
+Amplitude Val : 0.02034
+Label 1       : spos
+Label 2       : spos
+t1Start       : 0.00000
+t1End         : 2.75000
+t2Start       : 2.75000
+t2End         : 2.85000
+tAvgIndex     : 1.42500
+
+Iteration     : 2
+Label         : k
+Average Val   : -0.03218
+RMS Val       : 0.03234
+Amplitude Val : 0.00430
+Label 1       : const
+Label 2       : const
+t1Start       : 2.85000
+t1End         : 2.95000
+t2Start       : 2.95000
+t2End         : 2.99000
+tAvgIndex     : 2.92000
+

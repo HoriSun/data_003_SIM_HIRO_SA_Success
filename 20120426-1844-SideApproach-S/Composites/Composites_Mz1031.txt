@@ -1,0 +1,13 @@
+Iteration     : 1
+CompLabel     : i
+Average Val   : -0.00469
+RMS Val       : 0.00795
+Amplitude Val : -0.01490
+Label 1       : spos
+Label 2       : const
+t1Start       : 0.00000
+t1End         : 6.39900
+t2Start       : 6.40000
+t2End         : 6.94000
+tAvgIndex     : 3.47000
+

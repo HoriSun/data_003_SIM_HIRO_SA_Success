@@ -1,0 +1,2 @@
+2012Oct16
+A copy of "optimized gradient values" was saved here. The original files are hand chanaged to reflect original gradient classification values for testing purposes of the online version of the RCBHT

@@ -1,0 +1,13 @@
+Iteration     : 1
+Label         : k
+Average Val   : 10.77509
+RMS Val       : 11.00868
+Amplitude Val : 0.38737
+Label 1       : bneg
+Label 2       : sneg
+t1Start       : 0.00000
+t1End         : 2.87500
+t2Start       : 2.87500
+t2End         : 2.99000
+tAvgIndex     : 1.49500
+

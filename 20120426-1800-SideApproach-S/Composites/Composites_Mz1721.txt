@@ -1,0 +1,195 @@
+Iteration     : 1
+Label         : k
+Average Val   : 0.01188
+RMS Val       : 0.01562
+Amplitude Val : 0.00000
+Label 1       : const
+Label 2       : const
+t1Start       : 0.00000
+t1End         : 3.44900
+t2Start       : 3.45000
+t2End         : 3.57400
+tAvgIndex     : 1.78700
+
+Iteration     : 2
+Label         : a
+Average Val   : 0.00363
+RMS Val       : 0.00445
+Amplitude Val : 0.01526
+Label 1       : spos
+Label 2       : spos
+t1Start       : 3.57500
+t1End         : 3.64900
+t2Start       : 3.65000
+t2End         : 4.02400
+tAvgIndex     : 3.79950
+
+Iteration     : 3
+Label         : k
+Average Val   : 0.00557
+RMS Val       : 0.00733
+Amplitude Val : 0.00667
+Label 1       : sneg
+Label 2       : const
+t1Start       : 4.02500
+t1End         : 4.14900
+t2Start       : 4.15000
+t2End         : 4.79900
+tAvgIndex     : 4.41200
+
+Iteration     : 4
+Label         : d
+Average Val   : -0.00645
+RMS Val       : 0.00648
+Amplitude Val : 0.00412
+Label 1       : const
+Label 2       : mneg
+t1Start       : 4.80000
+t1End         : 4.87400
+t2Start       : 4.87500
+t2End         : 4.99900
+tAvgIndex     : 4.89950
+
+Iteration     : 5
+Label         : a
+Average Val   : -0.01364
+RMS Val       : 0.01384
+Amplitude Val : 0.00326
+Label 1       : sneg
+Label 2       : spos
+t1Start       : 5.00000
+t1End         : 5.02400
+t2Start       : 5.02500
+t2End         : 5.07400
+tAvgIndex     : 5.03700
+
+Iteration     : 6
+Label         : i
+Average Val   : -0.00278
+RMS Val       : 0.00309
+Amplitude Val : 0.01015
+Label 1       : const
+Label 2       : mpos
+t1Start       : 5.07500
+t1End         : 5.27400
+t2Start       : 5.27500
+t2End         : 5.32400
+tAvgIndex     : 5.19950
+
+Iteration     : 7
+Label         : a
+Average Val   : 0.00676
+RMS Val       : 0.00767
+Amplitude Val : 0.02623
+Label 1       : spos
+Label 2       : sneg
+t1Start       : 5.32500
+t1End         : 5.34900
+t2Start       : 5.35000
+t2End         : 5.44900
+tAvgIndex     : 5.38700
+
+Iteration     : 8
+Label         : d
+Average Val   : -0.00249
+RMS Val       : 0.00391
+Amplitude Val : 0.01003
+Label 1       : sneg
+Label 2       : const
+t1Start       : 5.45000
+t1End         : 5.47400
+t2Start       : 5.47500
+t2End         : 5.54900
+tAvgIndex     : 5.49950
+
+Iteration     : 9
+Label         : k
+Average Val   : -0.00827
+RMS Val       : 0.00836
+Amplitude Val : 0.00475
+Label 1       : const
+Label 2       : mpos
+t1Start       : 5.55000
+t1End         : 5.59900
+t2Start       : 5.60000
+t2End         : 5.64900
+tAvgIndex     : 5.59950
+
+Iteration     : 10
+Label         : k
+Average Val   : -0.00609
+RMS Val       : 0.00937
+Amplitude Val : 0.01253
+Label 1       : spos
+Label 2       : const
+t1Start       : 5.65000
+t1End         : 6.12400
+t2Start       : 6.12500
+t2End         : 6.19900
+tAvgIndex     : 5.92450
+
+Iteration     : 11
+Label         : k
+Average Val   : -0.00011
+RMS Val       : 0.00240
+Amplitude Val : 0.00000
+Label 1       : const
+Label 2       : const
+t1Start       : 6.20000
+t1End         : 6.22400
+t2Start       : 6.22500
+t2End         : 6.24900
+tAvgIndex     : 6.22450
+
+Iteration     : 12
+Label         : i
+Average Val   : -0.00026
+RMS Val       : 0.00070
+Amplitude Val : 0.00227
+Label 1       : const
+Label 2       : mpos
+t1Start       : 6.25000
+t1End         : 6.27400
+t2Start       : 6.27500
+t2End         : 6.29900
+tAvgIndex     : 6.27450
+
+Iteration     : 13
+Label         : a
+Average Val   : 0.00712
+RMS Val       : 0.00716
+Amplitude Val : 0.01116
+Label 1       : spos
+Label 2       : sneg
+t1Start       : 6.30000
+t1End         : 6.32400
+t2Start       : 6.32500
+t2End         : 6.39900
+tAvgIndex     : 6.34950
+
+Iteration     : 14
+Label         : d
+Average Val   : 0.00122
+RMS Val       : 0.00244
+Amplitude Val : 0.00680
+Label 1       : sneg
+Label 2       : const
+t1Start       : 6.40000
+t1End         : 6.42400
+t2Start       : 6.42500
+t2End         : 6.47400
+tAvgIndex     : 6.43700
+
+Iteration     : 15
+Label         : k
+Average Val   : -0.00709
+RMS Val       : 0.00757
+Amplitude Val : 0.00000
+Label 1       : const
+Label 2       : const
+t1Start       : 6.47500
+t1End         : 6.69900
+t2Start       : 6.70000
+t2End         : 7.19500
+tAvgIndex     : 6.83500
+

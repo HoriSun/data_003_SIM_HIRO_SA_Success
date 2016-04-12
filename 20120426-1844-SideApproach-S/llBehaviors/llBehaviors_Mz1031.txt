@@ -1,0 +1,19 @@
+Iteration     : 1
+CompLabel     : PL
+averageVal1   : -0.00469
+averageVal2   : -0.00469
+AVG_MAG_VAL   : -0.00469
+rmsVal1       : 0.00795
+rmsVal2       : 0.00795
+AVG_RMS_Val   : 0.00562
+amplitudeVal1 : -0.01490
+amplitudeVal2 : -0.01490
+AVG_AMP_VAL   : -0.01490
+Label 1       : i
+Label 2       : i
+t1Start       : 0.00000
+t1End         : 6.94000
+t2Start       : 0.00000
+t2End         : 6.94000
+tAvgIndex     : 3.47000
+

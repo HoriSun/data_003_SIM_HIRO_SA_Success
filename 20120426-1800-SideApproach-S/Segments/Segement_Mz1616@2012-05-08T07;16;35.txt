@@ -1,0 +1,9 @@
+Iteration : 1
+Average   : 0.05783
+Max Val   : 0.06533
+Min Val   : 0.05033
+Start     : 0.00000
+Finish    : 0.02500
+Gradient  : 0.60016
+Grad Label: spos  
+

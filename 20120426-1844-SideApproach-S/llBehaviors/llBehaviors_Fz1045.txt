@@ -1,0 +1,190 @@
+Iteration     : 1
+CompLabel     : PS
+averageVal1   : 3.61682
+averageVal2   : 3.61682
+AVG_MAG_VAL   : 3.61682
+rmsVal1       : 3.61682
+rmsVal2       : 3.61682
+AVG_RMS_Val   : 3.61682
+amplitudeVal1 : 1.37957
+amplitudeVal2 : 1.37957
+AVG_AMP_VAL   : 1.37957
+Label 1       : d
+Label 2       : z
+t1Start       : 0.00000
+t1End         : 2.59900
+t2Start       : 2.60000
+t2End         : 2.87400
+tAvgIndex     : 1.43700
+
+Iteration     : 2
+CompLabel     : AL
+averageVal1   : 11.67407
+averageVal2   : 11.49982
+AVG_MAG_VAL   : 11.58694
+rmsVal1       : 11.67448
+rmsVal2       : 11.49992
+AVG_RMS_Val   : 8.19362
+amplitudeVal1 : 0.18120
+amplitudeVal2 : 0.13482
+AVG_AMP_VAL   : 0.15801
+Label 1       : a
+Label 2       : a
+t1Start       : 2.87500
+t1End         : 3.02400
+t2Start       : 3.22500
+t2End         : 3.39900
+tAvgIndex     : 3.13075
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : 11.17831
+averageVal2   : 11.17831
+AVG_MAG_VAL   : 11.17831
+rmsVal1       : 11.17831
+rmsVal2       : 11.17831
+AVG_RMS_Val   : 11.17831
+amplitudeVal1 : 0.03968
+amplitudeVal2 : 0.03968
+AVG_AMP_VAL   : 0.03968
+Label 1       : k
+Label 2       : z
+t1Start       : 3.40000
+t1End         : 4.12400
+t2Start       : 4.12500
+t2End         : 4.47400
+tAvgIndex     : 3.93700
+
+Iteration     : 4
+CompLabel     : SH
+averageVal1   : 10.88771
+averageVal2   : 10.87672
+AVG_MAG_VAL   : 10.88221
+rmsVal1       : 10.88775
+rmsVal2       : 10.87749
+AVG_RMS_Val   : 7.69518
+amplitudeVal1 : 0.17031
+amplitudeVal2 : 0.56042
+AVG_AMP_VAL   : 0.36536
+Label 1       : a
+Label 2       : a
+t1Start       : 4.47500
+t1End         : 4.64900
+t2Start       : 4.85000
+t2End         : 5.44900
+tAvgIndex     : 4.85575
+
+Iteration     : 5
+CompLabel     : FX
+averageVal1   : 11.17914
+averageVal2   : 11.17914
+AVG_MAG_VAL   : 11.17914
+rmsVal1       : 11.17914
+rmsVal2       : 11.17914
+AVG_RMS_Val   : 11.17914
+amplitudeVal1 : 0.13340
+amplitudeVal2 : 0.13340
+AVG_AMP_VAL   : 0.13340
+Label 1       : k
+Label 2       : z
+t1Start       : 5.45000
+t1End         : 5.49900
+t2Start       : 5.50000
+t2End         : 5.54900
+tAvgIndex     : 5.49950
+
+Iteration     : 6
+CompLabel     : AL
+averageVal1   : 11.30282
+averageVal2   : 11.19417
+AVG_MAG_VAL   : 11.24850
+rmsVal1       : 11.30762
+rmsVal2       : 11.19657
+AVG_RMS_Val   : 7.95653
+amplitudeVal1 : 1.05631
+amplitudeVal2 : 0.73454
+AVG_AMP_VAL   : 0.89542
+Label 1       : a
+Label 2       : a
+t1Start       : 5.55000
+t1End         : 5.87400
+t2Start       : 5.97500
+t2End         : 6.12400
+tAvgIndex     : 5.88075
+
+Iteration     : 7
+CompLabel     : PL
+averageVal1   : 10.76402
+averageVal2   : 10.76402
+AVG_MAG_VAL   : 10.76402
+rmsVal1       : 10.76402
+rmsVal2       : 10.76402
+AVG_RMS_Val   : 10.76402
+amplitudeVal1 : 0.36368
+amplitudeVal2 : 0.36368
+AVG_AMP_VAL   : 0.36368
+Label 1       : i
+Label 2       : z
+t1Start       : 6.12500
+t1End         : 6.14900
+t2Start       : 6.15000
+t2End         : 6.17400
+tAvgIndex     : 6.14950
+
+Iteration     : 8
+CompLabel     : SH
+averageVal1   : 10.60424
+averageVal2   : 10.96744
+AVG_MAG_VAL   : 10.78584
+rmsVal1       : 10.60536
+rmsVal2       : 10.96811
+AVG_RMS_Val   : 7.62845
+amplitudeVal1 : 0.10811
+amplitudeVal2 : 0.27562
+AVG_AMP_VAL   : 0.19187
+Label 1       : a
+Label 2       : a
+t1Start       : 6.17500
+t1End         : 6.29900
+t2Start       : 6.30000
+t2End         : 6.44900
+tAvgIndex     : 6.30575
+
+Iteration     : 9
+CompLabel     : FX
+averageVal1   : 11.30950
+averageVal2   : 11.30950
+AVG_MAG_VAL   : 11.30950
+rmsVal1       : 11.30950
+rmsVal2       : 11.30950
+AVG_RMS_Val   : 11.30950
+amplitudeVal1 : 0.20000
+amplitudeVal2 : 0.20000
+AVG_AMP_VAL   : 0.20000
+Label 1       : k
+Label 2       : z
+t1Start       : 6.45000
+t1End         : 6.57400
+t2Start       : 6.57500
+t2End         : 6.62400
+tAvgIndex     : 6.53700
+
+Iteration     : 10
+CompLabel     : AL
+averageVal1   : 11.27259
+averageVal2   : 11.14657
+AVG_MAG_VAL   : 11.20958
+rmsVal1       : 11.27261
+rmsVal2       : 11.14671
+AVG_RMS_Val   : 7.92655
+amplitudeVal1 : 0.12644
+amplitudeVal2 : 0.10823
+AVG_AMP_VAL   : 0.11734
+Label 1       : a
+Label 2       : a
+t1Start       : 6.62500
+t1End         : 6.69900
+t2Start       : 6.77500
+t2End         : 6.94000
+tAvgIndex     : 6.75975
+

@@ -1,0 +1,39 @@
+Iteration     : 1
+Label         : pc
+Average Val   : 6.91445
+RMS Val       : 7.15113
+Amplitude Val : 6.37355
+Label 1       : pimp
+Label 2       : mneg
+t1Start       : 0.00000
+t1End         : 0.02500
+t2Start       : 0.02500
+t2End         : 0.10000
+tAvgIndex     : 0.05000
+
+Iteration     : 2
+Label         : a
+Average Val   : 3.47830
+RMS Val       : 4.20887
+Amplitude Val : 0.25282
+Label 1       : sneg
+Label 2       : bpos
+t1Start       : 0.10000
+t1End         : 2.80000
+t2Start       : 2.80000
+t2End         : 2.87500
+tAvgIndex     : 1.48750
+
+Iteration     : 3
+Label         : i
+Average Val   : 6.21712
+RMS Val       : 6.22148
+Amplitude Val : 1.42790
+Label 1       : mpos
+Label 2       : mpos
+t1Start       : 2.87500
+t1End         : 2.97500
+t2Start       : 2.97500
+t2End         : 2.99000
+tAvgIndex     : 2.93250
+

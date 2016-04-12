@@ -1,0 +1,95 @@
+Iteration     : 1
+CompLabel     : CT
+averageVal1   : -2.47129
+averageVal2   : -2.47129
+AVG_MAG_VAL   : -2.47129
+rmsVal1       : -2.47129
+rmsVal2       : -2.47129
+AVG_RMS_Val   : -2.47129
+amplitudeVal1 : 6.25008
+amplitudeVal2 : 6.25008
+AVG_AMP_VAL   : 6.25008
+Label 1       : pc
+Label 2       : z
+t1Start       : 0.00000
+t1End         : 0.10000
+t2Start       : 0.00000
+t2End         : 2.62500
+tAvgIndex     : 1.31250
+
+Iteration     : 2
+CompLabel     : N
+averageVal1   : 9.89164
+averageVal2   : 9.89164
+AVG_MAG_VAL   : 9.89164
+rmsVal1       : 9.89164
+rmsVal2       : 9.89164
+AVG_RMS_Val   : 9.89164
+amplitudeVal1 : 2.39312
+amplitudeVal2 : 2.39312
+AVG_AMP_VAL   : 2.39312
+Label 1       : i
+Label 2       : z
+t1Start       : 2.62500
+t1End         : 2.65000
+t2Start       : 2.65000
+t2End         : 2.67500
+tAvgIndex     : 2.65000
+
+Iteration     : 3
+CompLabel     : FX
+averageVal1   : 11.33839
+averageVal2   : 11.35390
+AVG_MAG_VAL   : 11.34614
+rmsVal1       : 11.33946
+rmsVal2       : 11.35397
+AVG_RMS_Val   : 9.66249
+amplitudeVal1 : 0.54955
+amplitudeVal2 : 0.22307
+AVG_AMP_VAL   : 0.38631
+Label 1       : FX
+Label 2       : FX
+t1Start       : 2.67500
+t1End         : 3.45000
+t2Start       : 3.45000
+t2End         : 4.25000
+tAvgIndex     : 3.46250
+
+Iteration     : 4
+CompLabel     : PL
+averageVal1   : 10.94233
+averageVal2   : 10.94233
+AVG_MAG_VAL   : 10.94233
+rmsVal1       : 10.94233
+rmsVal2       : 10.94233
+AVG_RMS_Val   : 10.94233
+amplitudeVal1 : 0.01974
+amplitudeVal2 : 0.01974
+AVG_AMP_VAL   : 0.01974
+Label 1       : i
+Label 2       : z
+t1Start       : 4.25000
+t1End         : 4.27500
+t2Start       : 4.27500
+t2End         : 4.30000
+tAvgIndex     : 4.27500
+
+Iteration     : 5
+CompLabel     : FX
+averageVal1   : 10.77560
+averageVal2   : 10.79179
+AVG_MAG_VAL   : 10.78369
+rmsVal1       : 10.77575
+rmsVal2       : 10.79196
+AVG_RMS_Val   : 9.20597
+amplitudeVal1 : 0.29361
+amplitudeVal2 : 0.22862
+AVG_AMP_VAL   : 0.26112
+Label 1       : FX
+Label 2       : FX
+t1Start       : 4.30000
+t1End         : 4.67500
+t2Start       : 4.67500
+t2End         : 6.67500
+tAvgIndex     : 5.48750
+
